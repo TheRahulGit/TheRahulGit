@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">🚀 A passionate Software Developer & Problem Solver from India</h3>
+<h3 align="center">🚀 Aspiring Web Developer with a deep interest in Cybersecurity, OWASP & Bug Bounty Enthusiast</h3>
 
 ### 📫 Connect With Me
 

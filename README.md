@@ -44,8 +44,10 @@
 
 ### 🐍 GitHub Contribution
 
-![snake gif](https://raw.githubusercontent.com/TheRahulGit/TheRahulGit/output/snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheRahulGit/TheRahulGit/output/snake.svg"
+       style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 10px #00ffcc;" />
+</p>
 
 ---
 

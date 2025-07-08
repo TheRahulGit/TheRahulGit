@@ -42,7 +42,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution
 
 ![snake gif](https://raw.githubusercontent.com/TheRahulGit/TheRahulGit/output/snake.svg)
 

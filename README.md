@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">🚀 Aspiring Web Developer with a deep interest in Cybersecurity, OWASP & Bug Bounty Enthusiast</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Aspiring+Web+Developer+%26+Cybersecurity+Learner;Passionate+about+building+secure+and+scalable+web+applications;Loves+solving+technology+problems+through+code;Exploring+OWASP%2C+Bug+Bounty+and+Ethical+Hacking" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 📫 Connect With Me
 

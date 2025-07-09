@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,25 +6,20 @@
   </a>
 </p>
 
-### 📫 Connect With Me
+---
 
-<p align="center">
+<h3 align="center"> 📫 Connect With Me </h3>
+<div align="center">
   <a href="https://www.linkedin.com/in/rahullibraz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Rahul%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
- <a href="https://twitter.com/Rahullibraz" target="_blank">
-  <img src="https://img.shields.io/badge/-@Rahullibraz-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-</a>
-
+  <a href="https://twitter.com/Rahullibraz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
   <a href="mailto:rahul.leox@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-rahul.leox@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=therahulgit&label=Profile%20views&color=0e75b6&style=flat" alt="therahulgit" />
-</p>
+</div>
 
 ---
 

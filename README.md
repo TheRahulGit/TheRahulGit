@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=therahulgit&label=Profile%20views&color=0e75b6&style=flat" alt="therahulgit" />
+</p>
+
 ---
 
 <h3 align="center"> 📫 Connect With Me </h3>
